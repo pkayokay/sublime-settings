@@ -1,4 +1,14 @@
-# sublime-settings
+# Sublime-settings
 
-- boxy tomorrow theme
-- terminus "hybrid" theme
+## Packages
+- Boxy Theme
+- Bracket Flasher
+- BracketHighlighter
+- Emmet
+- GitGutter
+- PackageResourceViewer (to edit themes)
+- Rubocop (sublimelinter rubocop)
+- Eslint (sublimelinter eslint)
+- SublimeLinter
+- HTML/CSS/JS Prettigy
+- Terminus (hybrid theme)
