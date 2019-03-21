@@ -1,0 +1,6 @@
+// GitGutter Settings - User
+{
+  "enable_hover_diff_popup": true,
+  "diff_popup_default_mode": "diff",
+  "show_line_annotation": false,
+}
