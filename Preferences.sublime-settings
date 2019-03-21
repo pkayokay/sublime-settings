@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+	"ensure_single_trailing_newline": true,
+	"font_size": 13,
+	"hot_exit": true,
+	"ignore_whitespace_on_current_line": true,
+	"ignore_whitespace_only_lines": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"index_files": false,
+	"margin": 0,
+	"remember_open_files": true,
+	"remove_trailing_whitespace_on_save": true,
+	"tab_size": 2,
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
