@@ -1,0 +1,12 @@
+// SublimeLinter Settings - User
+{
+  "linters": {
+    "rubocop": {
+      // "env": {"GEM_PATH":"/Users/paulkim/.rvm/gems/ruby-2.3.1"},
+      "executable": "/Users/paulkim/.rvm/bin/rvm-auto-ruby"
+    },
+    "eslint": {
+      "env": {"PATH":"/usr/local/bin/"}
+    },
+  }
+}
