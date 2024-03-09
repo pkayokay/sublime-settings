@@ -8,11 +8,6 @@
 		".log"
 	],
 	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
-	// "tabs_small": true,
-  // "sidebar_size_13": true,
-  // "color_inactive_tabs": true,
-  // "sidebar_row_padding_medium": true,
-	// "ensure_single_trailing_newline": true,
 	"folder_exclude_patterns":
 	[
 		"public/webpack/",
