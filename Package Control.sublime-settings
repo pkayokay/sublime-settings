@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"BracketHighlighter",
 		"CloseOtherWindows",
 		"Git",
 		"GitGutter",
@@ -13,5 +14,6 @@
 		"Package Control",
 		"Sync Settings",
 		"Terminus",
+		"Theme - Flatland",
 	],
 }
