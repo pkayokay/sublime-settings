@@ -7,7 +7,7 @@
 		"tmp/",
 		".log"
 	],
-	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
+	"color_scheme": "Monokai.sublime-color-scheme",
 	"folder_exclude_patterns":
 	[
 		"public/webpack/",
