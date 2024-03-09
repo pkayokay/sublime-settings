@@ -7,7 +7,7 @@
 		"tmp/",
 		".log"
 	],
-	"color_scheme": "Monokai.sublime-color-scheme",
+	"color_scheme": "Mariana.sublime-color-scheme",
 	"folder_exclude_patterns":
 	[
 		"public/webpack/",
@@ -33,6 +33,6 @@
 	"margin": 2,
 	"show_rel_path": true,
 	"tab_size": 2,
-	"theme": "Default.sublime-theme",
+	"theme": "auto",
 	"translate_tabs_to_spaces": true,
 }
