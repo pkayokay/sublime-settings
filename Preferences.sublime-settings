@@ -7,7 +7,7 @@
 		"tmp/",
 		".log"
 	],
-	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
 	"folder_exclude_patterns":
 	[
 		"public/webpack/",
@@ -17,7 +17,8 @@
 		".git",
 		".log"
 	],
-	"font_size": 15,
+	"font_size": 14,
+	
 	"hot_exit": true,
 	"ignore_whitespace_on_current_line": true,
 	"ignore_whitespace_only_lines": false,
@@ -33,6 +34,6 @@
 	"margin": 2,
 	"show_rel_path": true,
 	"tab_size": 2,
-	"theme": "auto",
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 }
