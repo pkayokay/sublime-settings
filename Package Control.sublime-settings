@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Git",
+		"Package Control",
+		"Sync Settings",
+		"Terminus",
+		"Theme - Afterglow",
+	],
+}

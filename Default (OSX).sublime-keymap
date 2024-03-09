@@ -1,0 +1,23 @@
+[
+  { "keys": ["option+space"], "command": "toggle_terminus_panel" },
+  // { "keys": ["alt+left"], "command": "terminus_keypress", "args": {"key": "b", "alt": true}, "context": [{"key": "terminus_view"}] },
+  // { "keys": ["alt+right"], "command": "terminus_keypress", "args": {"key": "f", "alt": true}, "context": [{"key": "terminus_view"}] },
+  { "keys": ["option+k"], "command": "terminus_reset", "args": {"key": "f", "alt": true}, "context": [{"key": "terminus_view"}] },
+  { "keys": ["option+shift+r"], "command": "reveal_in_side_bar"},
+  { "keys": ["super+\\"], "command": "new_pane", "args": {"move": false} },
+  { "keys": ["ctrl+]"], "command": "goto_definition" },
+  { "keys": ["ctrl+["], "command": "jump_back" },
+  { "keys": ["option+up"], "command": "swap_line_up" },
+  { "keys": ["option+down"], "command": "swap_line_down" },
+  { "keys": ["super+shift+w"], "command": "close_other_tabs" },
+  {
+    "keys": ["super+shift+\\"],
+    "command": "set_layout",
+    "args":
+    {
+      "cols": [0.0, 1.0],
+      "rows": [0.0, 0.5, 1.0],
+      "cells": [[0, 0, 1, 1], [0, 1, 1, 2]]
+    }
+  },
+]

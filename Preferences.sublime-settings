@@ -1,0 +1,46 @@
+{
+	"binary_file_patterns":
+	[
+		"public/",
+		"log/",
+		"node_modules/",
+		"tmp/",
+		".log"
+	],
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
+	// "tabs_small": true,
+  // "sidebar_size_13": true,
+  // "color_inactive_tabs": true,
+  // "sidebar_row_padding_medium": true,
+	// "ensure_single_trailing_newline": true,
+	"folder_exclude_patterns":
+	[
+		"public/webpack/",
+		"log/",
+		"coverage",
+		"tmp",
+		".git",
+		".log"
+	],
+	"font_size": 14,
+	"hot_exit": true,
+	"ignore_whitespace_on_current_line": true,
+	"ignore_whitespace_only_lines": false,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"index_files": true,
+	"line_padding_bottom": 2.5,
+	"line_padding_top": 2.5,
+	"margin": 0,
+	"remember_open_files": false,
+	"remove_trailing_whitespace_on_save": true,
+	// "show_full_path": true,
+	"show_rel_path": true,
+	"tab_size": 2,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"dark_theme": "Default Dark.sublime-theme",
+	"light_theme": "Default.sublime-theme",
+}
