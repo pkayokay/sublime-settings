@@ -5,7 +5,10 @@
 	],
 	"installed_packages":
 	[
+		"CloseOtherWindows",
 		"Git",
+		"GitGutter",
+		"Open in Git Repository",
 		"Package Control",
 		"Sync Settings",
 		"Terminus",
