@@ -17,12 +17,14 @@
 		".git",
 		".log"
 	],
+	"remove_trailing_whitespace_on_save": true,
 	"font_size": 15,
 	"hot_exit": true,
 	"ignore_whitespace_on_current_line": true,
 	"ignore_whitespace_only_lines": false,
 	"ignored_packages":
 	[
+		"Vintage",
 	],
 	"caret_style": "blink",
 	"index_files": true,
@@ -32,6 +34,6 @@
 	"margin": 0,
 	"show_rel_path": true,
 	"tab_size": 2,
-	"theme": "auto",
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 }

@@ -1,7 +1,7 @@
 {
   "scrollback_history_size": 1000,
-  "theme": "monokai",
+  "theme": "spacegray-eighties",
   "view_settings": {
-    "font_size": 14,
+    "font_size": 15,
   },
 }

@@ -8,6 +8,7 @@
   { "keys": ["option+up"], "command": "swap_line_up" },
   { "keys": ["option+down"], "command": "swap_line_down" },
   { "keys": ["super+shift+w"], "command": "close_other_tabs" },
+  { "keys": ["option+]"], "command": "goto_definition" },
   {
     "keys": ["super+shift+\\"],
     "command": "set_layout",

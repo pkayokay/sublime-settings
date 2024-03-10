@@ -1,0 +1,7 @@
+{
+    "linters": {
+        "rubocop": {
+            "args": ["--config", "path/to/config.yml"]
+        }
+    }
+}
