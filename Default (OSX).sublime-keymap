@@ -10,6 +10,7 @@
   { "keys": ["super+shift+w"], "command": "close_other_tabs" },
   { "keys": ["option+]"], "command": "goto_definition" },
   {
+    // Split down
     "keys": ["super+shift+\\"],
     "command": "set_layout",
     "args":
@@ -17,6 +18,21 @@
       "cols": [0.0, 1.0],
       "rows": [0.0, 0.5, 1.0],
       "cells": [[0, 0, 1, 1], [0, 1, 1, 2]]
+    }
+  },
+  {
+    // 4 squares
+    "keys": ["super+shift+="],
+    "command": "set_layout",
+    "args":
+    {
+      "cols": [0.0, 0.5, 1.0],
+      "rows": [0.0, 0.5, 1.0],
+      "cells":
+      [
+        [0, 0, 1, 1], [1, 0, 2, 1],
+        [0, 1, 1, 2], [1, 1, 2, 2]
+      ]
     }
   },
   {
