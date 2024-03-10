@@ -1,4 +1,4 @@
-## README 
+## README
 https://packagecontrol.io/docs/syncing#git
 
 Syncs the `Packages/User/` folder in the Sublime Text Application folder. Add alias to make it easy to navigate to config `alias sp="cd ~/Library/Application\ Support/Sublime\ Text/Packages/User/"`.
@@ -18,3 +18,4 @@ Package Control.ca-certs/
 ```
 
 - To edit the sidebar, use package resource viewer and edit the "sidebar_label" font_size, [example here](https://olivierlacan.com/posts/increase-the-sidebar-font-size-in-sublime-text/) and "sidebar_tree" for padding.
+  - `cmd + shift + p` -> `prv open` -> find the select theme to edit

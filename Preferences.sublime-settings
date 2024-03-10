@@ -7,7 +7,7 @@
 		"tmp/",
 		".log"
 	],
-	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow-monokai.tmTheme",
 	"folder_exclude_patterns":
 	[
 		"public/webpack/",

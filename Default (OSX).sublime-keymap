@@ -25,5 +25,5 @@
     "args": {
       "cwd": "${file_path:${folder}}"
     }
-  }
+  },
 ]
