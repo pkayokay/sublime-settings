@@ -48,7 +48,7 @@
   },
   // 3 rows
   {
-    "keys": ["super+k","super+shift+3"],
+    "keys": ["super+k","super+shift+r+3"],
     "command": "set_layout",
     "args":
     {
