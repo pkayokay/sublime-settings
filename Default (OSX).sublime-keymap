@@ -42,4 +42,7 @@
       "cwd": "${file_path:${folder}}"
     }
   },
+  // Defaults
+  // { "keys": ["super+alt+["], "command": "fold" },
+  // { "keys": ["super+alt+]"], "command": "unfold" },
 ]
