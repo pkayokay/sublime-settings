@@ -7,9 +7,13 @@
 	[
 		"BracketHighlighter",
 		"CloseOtherWindows",
+		"Cucumber",
+		"ESLint",
 		"FileIcons",
 		"Git",
 		"GitGutter",
+		"GraphQL",
+		"LSP-graphql",
 		"MarkdownPreview",
 		"Open in Git Repository",
 		"Package Control",
