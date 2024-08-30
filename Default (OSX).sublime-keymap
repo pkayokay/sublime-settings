@@ -4,7 +4,7 @@
   { "keys": ["shift+option+space"], "command": "terminus_open", "args": { "cwd": "${file_path:${folder}}"} },
   // Split terminum panel with origami
   {
-      "keys": ["ctrl+alt+t"],
+      "keys": ["command+alt+t"],
       "command": "terminus_open",
       "args": {
           "post_window_hooks": [
