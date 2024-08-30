@@ -2,6 +2,16 @@
   { "keys": ["option+space"], "command": "toggle_terminus_panel" },
   { "keys": ["option+k"], "command": "terminus_reset", "args": {"key": "f", "alt": true}, "context": [{"key": "terminus_view"}] },
   { "keys": ["shift+option+space"], "command": "terminus_open", "args": { "cwd": "${file_path:${folder}}"} },
+  // Split terminum panel with origami
+  {
+      "keys": ["ctrl+alt+t"],
+      "command": "terminus_open",
+      "args": {
+          "post_window_hooks": [
+              ["carry_file_to_pane", {"direction": "down"}]
+          ]
+      }
+  },
   { "keys": ["option+shift+r"], "command": "reveal_in_side_bar"},
   { "keys": ["ctrl+]"], "command": "goto_definition" },
   { "keys": ["ctrl+["], "command": "jump_back" },
