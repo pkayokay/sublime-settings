@@ -7,8 +7,16 @@
   "rules":
   [
     {
+      "class": "tabset_control",
+      "tab_height": 38,
+    },
+    {
+      "class": "tab_label",
+      "font.size": "var(font_size_lg)",
+    },
+    {
       "class": "sidebar_label",
-      "font.size": "var(font_size_xl)",
+      "font.size": "var(font_size_lg)",
     },
     {
       "class": "sidebar_tree",
