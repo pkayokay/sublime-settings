@@ -1,10 +1,19 @@
 // Documentation at https://www.sublimetext.com/docs/themes.html
 {
   "variables":
-  {
-  },
+    {
+      "font_size_xl": 13.5,
+    },
   "rules":
   [
-    
+    {
+      "class": "sidebar_label",
+      "font.size": "var(font_size_xl)",
+    },
+    {
+      "class": "sidebar_tree",
+      "row_padding": [16, 4, 4, 4],
+      "indent": 16,
+    },
   ]
 }
